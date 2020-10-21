@@ -13,7 +13,7 @@ import (
 
 	crypt "github.com/MaximPod/crypt/config"
 
-	"github.com/spf13/viper"
+	"github.com/MaximPod/viper"
 )
 
 type remoteConfigProvider struct{}
